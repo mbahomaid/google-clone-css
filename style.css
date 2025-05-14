@@ -1,0 +1,26 @@
+.search-container {
+  margin: 150px  auto 0;
+  width: 500px;
+  text-align: center;
+}
+img {
+  width: 300px;
+  margin: 20px;
+}
+input {
+  width: 400px;
+  border-radius: 20px;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+}
+.btn-wrapper {
+    margin: 20px;
+}
+.btn {
+    padding: 10px 20px;
+    border: none;
+    font-weight: large;
+    margin: 0 10px;
+    font-size: 16px;
+    border-radius: 5px;
+}
